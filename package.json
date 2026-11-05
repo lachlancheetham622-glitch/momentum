@@ -1,0 +1,9 @@
+{
+  "name": "momentum",
+  "version": "1.0.0",
+  "description": "Momentum parkour speed trial game with a tiny static server",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "license": "UNLICENSED",
+  "private": true
+}
